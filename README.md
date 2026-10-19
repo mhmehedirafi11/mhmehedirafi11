@@ -79,6 +79,33 @@
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔍 [vapt-checklist](https://github.com/mhmehedirafi11/vapt-checklist)
+
+Practical **VAPT checklists** and a **CVSS-rated finding report template** for web applications, APIs and network infrastructure — aligned to the **OWASP Top 10**.
+
+`Web App` · `API` · `Network` · `Reporting`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ [recon-toolkit](https://github.com/mhmehedirafi11/recon-toolkit)
+
+**Dependency-free Python** reconnaissance toolkit — passive subdomain discovery via certificate transparency, DNS resolution, HTTP probing, TCP port checks, and **Markdown / JSON** reporting.
+
+`Python` · `Recon` · `Automation`
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🛠️ Services
 
 - 🔎 **Web Application & API Penetration Testing**
