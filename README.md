@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Penetration+Tester+%7C+Ethical+Hacker;VAPT+%7C+OSINT+%7C+Digital+Forensics;Threat+Hunting+%7C+SIEM+%7C+Security+Automation;Available+for+Security+Engagements" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Penetration+Tester+%7C+Web+%26+API+VAPT;VAPT+reports+developers+can+act+on;Python+security+automation;OWASP+Top+10+%7C+API+Security;Available+for+Security+Engagements" alt="Typing SVG" />
 
 <h1>Hey, I'm MEHEDI RAFI 👋</h1>
-<h3>🛡️ Cyber Security Specialist &nbsp;|&nbsp; Ethical Hacker &nbsp;|&nbsp; Security Researcher</h3>
+<h3>🛡️ Penetration Tester (Web &amp; API) &nbsp;|&nbsp; VAPT Reporting &nbsp;|&nbsp; Python Security Automation</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mhmehedirafi11&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="views" />
@@ -17,16 +17,15 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 **Cyber Security professional** specializing in **Penetration Testing (VAPT)** & **Ethical Hacking**
-- 🌐 Perform **Web, Network & API Security Assessments** with real-world exploitation and remediation
-- 🕵️ Expert in **OSINT, Reconnaissance & Attack Surface Mapping**
-- 🧬 Deliver **Digital Forensics & Incident Response** — disk, memory & malware analysis
-- 📡 **Threat Hunting & SIEM** operations with **Splunk, ELK & QRadar**
-- 🐧 **Linux Administration & Server Hardening** (RedHat & Debian based systems)
-- 🐍 Build custom **offensive tooling & security automation with Python & Django**
-- 📊 Produce clear, prioritized **vulnerability reports** with actionable remediation
+- 🔐 **Penetration tester** focused on **web applications and APIs** — OWASP Top 10, authentication, access control and business logic
+- 📄 I write the report the way a developer needs it: **manually reproduced findings**, CVSS 3.1 vector next to business risk, raw request/response evidence, exact remediation and retest criteria
+- 🐍 **Python security automation** — dependency-free offensive tooling that runs on locked-down assessment laptops
+- 🕵️ **Recon & attack-surface mapping** — passive discovery first, rate-limited, authorised targets only
+- 🐧 **Linux administration & server hardening** (RedHat & Debian based systems)
+- 🧬 Also worked with: **OSINT, digital forensics & incident response, threat hunting / SIEM** (Splunk, ELK, YARA)
+- 📊 Everything I test is against **authorised targets only** — rules of engagement signed before any engagement
 - 🌍 Open to **freelance, remote & global security engagements**
-- 💬 Ask me about **Penetration Testing, Burp Suite, Nmap, OSINT, Linux Hardening & Python**
+- 💬 Ask me about **Burp Suite, OWASP Top 10, API security, Nmap, Linux hardening & Python tooling**
 
 ---
 
@@ -34,13 +33,13 @@
 
 | Domain | What I Do |
 |:--|:--|
-| 🌐 **Web Application Pentesting** | SQLi, XSS, SSRF, auth bypass, business-logic flaws & full VAPT reporting |
-| 🖥️ **Network & System Hacking** | MITM, ARP spoofing, lateral movement, exploitation & privilege escalation |
-| 🕵️ **OSINT & Recon** | Attack surface mapping with **Amass, Shodan, theHarvester** & custom recon |
-| 🧬 **Digital Forensics** | Disk & memory analysis with **Autopsy, Volatility, FTK, EnCase** |
-| 📡 **Threat Hunting & SIEM** | Detection engineering with **Splunk, ELK, QRadar, YARA** |
+| 🌐 **Web Application Pentesting** | Manual testing against OWASP Top 10 / WSTG — SQLi, XSS, SSRF, auth bypass, access control & business-logic flaws |
+| 🔌 **API Security Testing** | BOLA/IDOR, broken authentication, mass assignment, rate limiting — REST API assessment |
+| 📋 **VAPT Reporting** | Executive summary → CVSS 3.1 rated findings → evidence → 7/30/90-day remediation roadmap → retest criteria |
+| 🕵️ **OSINT & Recon** | Attack-surface mapping with certificate transparency, **Nmap, Shodan, theHarvester** & custom recon tooling |
+| 🐍 **Security Automation** | Custom scanners, evidence collection and reporting pipelines with **Python** (zero-dependency by design) |
 | 🐧 **Linux Hardening** | Server hardening, access control, secure infrastructure setup |
-| 🐍 **Security Automation** | Custom scanners, APIs & tooling with **Python & Django** |
+| 🧬 *Also:* **Forensics & SIEM** | Disk/memory analysis (Autopsy, Volatility), detection work with **Splunk, ELK, QRadar, YARA** |
 
 ---
 
@@ -128,13 +127,14 @@ Coursework across **Ethical Hacking**, **Web & Network Penetration Testing**, **
 
 ### 🛠️ Services
 
-- 🔎 **Web Application & API Penetration Testing**
-- 🌐 **Network & Infrastructure Security Assessment (VAPT)**
-- 📋 **Vulnerability Assessment with Professional Reporting**
+- 🔎 **Web Application Penetration Testing** (OWASP Top 10, manual testing + verification)
+- 🔌 **API Security Testing** (BOLA/IDOR, broken auth, mass assignment, rate limiting)
+- 📄 **Vulnerability Assessment & Remediation-Ready Reporting** (CVSS 3.1 + business risk, retest criteria)
 - 🕵️ **OSINT & Attack Surface Reconnaissance**
-- 🧬 **Digital Forensics & Incident Response**
 - 🐧 **Linux Server Hardening**
-- 🐍 **Custom Security Automation (Python / Django)**
+- 🐍 **Custom Security Automation (Python)**
+
+> Working style: rules of engagement signed before testing · scanner output is a lead, never a finding · every report ends with a prioritised fix list, not a wall of red.
 
 ---
 
