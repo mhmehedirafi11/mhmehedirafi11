@@ -85,6 +85,15 @@
 <tr>
 <td width="50%" valign="top">
 
+#### 📄 [sample-vapt-report](https://github.com/mhmehedirafi11/sample-vapt-report)
+
+A **complete sample penetration test report** — executive summary, scope & rules of engagement, **8 findings with CVSS 3.1 vectors**, raw request/response evidence, a prioritised **remediation roadmap** and a retest plan. Includes a ready-to-sign **rules-of-engagement template**.
+
+`Reporting` · `CVSS` · `OWASP` · `RoE`
+
+</td>
+<td width="50%" valign="top">
+
 #### 🔍 [vapt-checklist](https://github.com/mhmehedirafi11/vapt-checklist)
 
 Practical **VAPT checklists** and a **CVSS-rated finding report template** for web applications, APIs and network infrastructure — aligned to the **OWASP Top 10**.
@@ -92,6 +101,8 @@ Practical **VAPT checklists** and a **CVSS-rated finding report template** for w
 `Web App` · `API` · `Network` · `Reporting`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🛰️ [recon-toolkit](https://github.com/mhmehedirafi11/recon-toolkit)
@@ -99,6 +110,15 @@ Practical **VAPT checklists** and a **CVSS-rated finding report template** for w
 **Dependency-free Python** reconnaissance toolkit — passive subdomain discovery via certificate transparency, DNS resolution, HTTP probing, TCP port checks, and **Markdown / JSON** reporting.
 
 `Python` · `Recon` · `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎓 Arena Web Security — Professional Diploma
+
+Coursework across **Ethical Hacking**, **Web & Network Penetration Testing**, **OSINT**, **Digital Forensics & Incident Response**, **Threat Hunting & SIEM**, **Advanced Python with Django** and **Linux Server Hardening** — applied in hands-on lab environments.
+
+`Hands-on labs` · `2026`
 
 </td>
 </tr>
