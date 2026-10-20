@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=720&lines=Penetration+Tester+%7C+Ethical+Hacker;VAPT+%7C+OSINT+%7C+Digital+Forensics;Threat+Hunting+%7C+SIEM+%7C+Security+Automation;Available+for+Security+Engagements" alt="Typing SVG" />
 
-<h1>Hey, I'm MEHEDI RAFI 👋</h1>
+<h1>Hey, I'm Mehedi Hasan 👋</h1>
 <h3>🛡️ Cyber Security Specialist &nbsp;|&nbsp; Ethical Hacker &nbsp;|&nbsp; Security Researcher</h3>
 
 <p>
